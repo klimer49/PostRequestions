@@ -1,0 +1,20 @@
+﻿<Window x:Class="Post_Requestions.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Post_Requestions"
+        mc:Ignorable="d"
+        Title="Post Requestions" Height="450" Width="800">
+    <Grid>
+        <Button Content="Send" HorizontalAlignment="Left" Margin="325,245,0,0" VerticalAlignment="Top" Width="110" Height="30" Click="Button_Click"/>
+        <Label x:Name="Title" Content="Post Requestions" HorizontalAlignment="Left" VerticalAlignment="Top" Height="50" Width="260" FontSize="30"/>
+        <TextBox x:Name="postbody" HorizontalAlignment="Left" Height="105" Margin="135,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="485" FontSize="15"/>
+        <Label Content="POST Body" HorizontalAlignment="Left" Margin="35,164,0,0" VerticalAlignment="Top" Width="85" FontSize="15"/>
+        <Label Content="URL" HorizontalAlignment="Left" Margin="50,79,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="url" HorizontalAlignment="Left" Height="33" Margin="135,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="485"/>
+        <Label x:Name="responsetext" Content="" HorizontalAlignment="Left" Margin="10,304,0,0" VerticalAlignment="Top" Width="770" Height="106" FontSize="15"/>
+        <Label Content="Response" HorizontalAlignment="Left" Margin="10,270,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.3,0.769"/>
+
+    </Grid>
+</Window>

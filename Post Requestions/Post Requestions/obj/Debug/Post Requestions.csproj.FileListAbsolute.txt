@@ -1,0 +1,15 @@
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\bin\Debug\Post Requestions.exe.config
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\bin\Debug\Post Requestions.exe
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\bin\Debug\Post Requestions.pdb
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post Requestions.csproj.AssemblyReference.cache
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\MainWindow.g.cs
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\App.g.cs
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post Requestions_MarkupCompile.cache
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post Requestions_MarkupCompile.lref
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\MainWindow.baml
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post Requestions.g.resources
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post_Requestions.Properties.Resources.resources
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post Requestions.csproj.GenerateResource.cache
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post Requestions.csproj.CoreCompileInputs.cache
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post Requestions.exe
+C:\Users\Klimer\source\repos\Post Requestions\Post Requestions\obj\Debug\Post Requestions.pdb
